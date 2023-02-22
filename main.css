@@ -105,7 +105,8 @@ footer a {
 }
 
 .btn-primary {
-  background-color: rgb(224, 175, 97) !important;
+  background-color: #775c4c !important;
+  border: #775c4c !important;
 }
 
 .controls {
