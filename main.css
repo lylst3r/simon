@@ -104,6 +104,10 @@ footer a {
   border: thick solid rgb(179, 151, 143);
 }
 
+.btn-primary {
+  background-color: rgb(224, 175, 97);
+}
+
 .controls {
   position: absolute;
   border-radius: 50%;
