@@ -104,8 +104,8 @@ footer a {
   border: thick solid rgb(179, 151, 143);
 }
 
-.btn btn-primary {
-  background-color: rgb(224, 175, 97);
+.btn-primary {
+  background-color: rgb(224, 175, 97) !important;
 }
 
 .controls {
