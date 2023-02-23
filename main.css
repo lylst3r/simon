@@ -14,7 +14,7 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  background: rgb(232, 233, 225) !important;
+  color: rgb(232, 233, 225) !important;
 }
 
 footer {
