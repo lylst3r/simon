@@ -76,28 +76,28 @@ footer a {
   gap: 20px;
 }
 
-.button-top-left {
+#green {
   border-radius: 100% 0 0 0;
   margin: 20px 0 0 20px;
   background-color: rgb(88, 138, 135);
   border: thick solid rgb(66, 104, 101);
 }
 
-.button-top-right {
+#red {
   border-radius: 0 100% 0 0;
   margin: 20px 20px 0 0;
   background-color: rgb(182, 198, 190);
   border: thick solid rgb(137, 149, 143);
 }
 
-.button-bottom-left {
+#yellow {
   border-radius: 0 0 0 100%;
   margin: 0 0 20px 20px;
   background-color: rgb(223, 217, 202);
   border: thick solid rgb(167, 163, 152);
 }
 
-.button-bottom-right {
+#blue {
   border-radius: 0 0 100% 0;
   margin: 0 20px 20px 0;
   background-color: rgb(239, 201, 191);
